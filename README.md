@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Drew (@drewcli846) 👋
 
-<!--
-**drewcli846/drewcli846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Sydney. I build full-stack web apps during the day and ship indie projects on nights and weekends.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building small SaaS experiments and developer tools.
+- 📚 Exploring local-first architecture and lightweight data stores.
+- ☕ Looking for good espresso spots in Surry Hills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use
+- **Languages:** TypeScript, Python, SQL
+- **Backend:** FastAPI, Node.js, SQLite, PostgreSQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Tooling/Infra:** Docker, GitHub Actions, Fly.io, Cloudflare
+
+#### Reach out
+- Twitter/X: [@drewcli](https://twitter.com)
+- Email: drew@hey.com
+- Site: [drewcli.dev](https://drewcli.dev)
